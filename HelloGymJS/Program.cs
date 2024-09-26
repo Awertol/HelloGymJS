@@ -65,3 +65,6 @@ Console.Clear();
 Console.ResetColor();
 Thread.Sleep(400);
 Console.WriteLine("Užívej GymJS!");
+Thread.Sleep(4000);
+Console.WriteLine("Ciao :)");
+Thread.Sleep(500);
